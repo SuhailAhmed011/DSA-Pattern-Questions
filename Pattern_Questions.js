@@ -5,7 +5,7 @@
  ****
  */
 
-function patter1(n) {
+function pattern1(n) {
   for (let i = 0; i < n; i++) {
     let rows = ''
     for (let j = 0; j < n; j++) {
@@ -15,7 +15,7 @@ function patter1(n) {
   }
  
 }
-console.log(patter1(4));
+console.log(pattern1(4));
 
 
 /*
